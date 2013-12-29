@@ -8,9 +8,20 @@
 -- this is the configuration file for towny
 -------------------------------------------------------
 
+-- # To enable the Town Part, set this to true. Towns is needed for Nations.
 activate_towns = true
+
+-- # To enable protection of Blocks in Towns, set this to true.
 activate_protection_handling = true
+
+-- # When this is set to true, Players in the same town can't damage each other
 activate_pvp_protection_for_players_in_the_same_town = true
+
+-- # To enable the Nation Part, set this to true. Nations is needed for Nation-war.
 activate_nations = true
+
+-- # When this is set to true, Players in the same nation can't damage each other
 activate_pvp_protection_for_players_in_the_same_nation = true
+
+-- # To enable the Nation-war feature set this to true
 activate_war_handling_between_nations = false
