@@ -1,0 +1,16 @@
+-- Towny for Minetest coded by Evolykane and John_minetest
+-- 
+-- Translations:
+-- - No Modul for Translations yet.
+-- 
+-- Liszence: by-nc-sa
+-------------------------------------------------------
+-- this is the configuration file for towny
+-------------------------------------------------------
+
+activate_towns = true
+activate_protection_handling = true
+activate_pvp_protection_for_players_in_the_same_town = true
+activate_nations = true
+activate_pvp_protection_for_players_in_the_same_nation = true
+activate_war_handling_between_nations = false
